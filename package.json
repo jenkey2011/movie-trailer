@@ -1,0 +1,29 @@
+{
+  "name": "movie-trailer",
+  "version": "1.0.0",
+  "description": "A movie trailer site power by node ",
+  "main": "index.js",
+  "dependencies": {
+    "co": "^4.6.0",
+    "koa2": "^2.0.0-alpha.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenkey2011/movie-trailer.git"
+  },
+  "keywords": [
+    "node",
+    "koa2",
+    "movie"
+  ],
+  "author": "wangqizheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenkey2011/movie-trailer/issues"
+  },
+  "homepage": "https://github.com/jenkey2011/movie-trailer#readme"
+}
